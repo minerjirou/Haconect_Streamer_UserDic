@@ -1,4 +1,4 @@
-# Haconect_Streamar_UserDic  
+# ホロライブ所属Vtuberのwindows用ユーザー辞書です。  
 ハコネクト所属Vtuberのwindows用ユーザー辞書です。  
 読み込み方法はこれを参考にしてください。  
 https://hamachan.info/win10/ime/tango.html    
